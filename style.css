@@ -1,0 +1,12 @@
+.tarefas{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(251, 247, 255);
+}
+
+.tarefa.concluido{
+      display: flex;  
+      flex-direction: ;
+}
